@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @MsSherrieJ
-- 👀 I’m interested in expanding my knowledge of HTML, CSS and Jacascript to enhance my work as a SharePoint Administrator.
+- 👀 I’m interested in expanding my knowledge of HTML, CSS and Javascript to enhance my work as a SharePoint Administrator.
 - 🌱 I’m currently learning how to properly use HTML and CSS.
 - 💞️ I’m looking to collaborate on designing SharePoint sites/pages with unique features.
 - 📫 How to reach me mssherriej@msn.com
